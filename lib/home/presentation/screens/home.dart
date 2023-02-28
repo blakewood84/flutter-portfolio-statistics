@@ -22,7 +22,7 @@ class PortfolioTrackerScreen extends StatelessWidget {
         appBar: AppBar(
           centerTitle: true,
           title: const Text(
-            'AssetDash Portfolio Tracker',
+            'Portfolio Tracker',
             style: TextStyle(
               fontSize: 18,
               color: Colors.black,
